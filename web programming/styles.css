@@ -1,0 +1,39 @@
+body,html{
+    height: 100%;
+}
+.hero-image{
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(images/backround.jpg);
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+.top_nav{
+    text-align: left;
+    color: white;
+    background: #00bcd1;
+    padding-bottom: 20px;
+}
+a{
+    color: white;
+    font-size: large;
+}
+#logo{
+    height: 80px;
+    width: 80px;
+    padding-right: 1400px;
+}
+h1{
+    color: white;
+}
+h2{
+    color: white;
+}
+h3{
+    color: white;
+}
+.advert{
+    background: #00bcd1;
+    text-align: center;
+}
